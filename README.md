@@ -1,6 +1,6 @@
 ## Agus Purwantoro
 
-Hi, I'm Agus Purwantoro, a  26-year-old passionate software developer with  11+ years of experience in web development and system administration.
+Hi, I'm Agus Purwantoro, a passionate software developer with 11+ years of experience in web development and system administration.
 
 I specialize in full-stack development, WordPress, DevOps, and creating efficient solutions for complex technical challenges.
 
