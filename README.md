@@ -59,6 +59,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
  
 ## Reach Me
 
- - [Email](https://aguspurwantoro.vercel.app/contact)
- - [Flippa](https://aguspurwantoro.vercel.app/go/flippa)
  - [LinkedIn](https://aguspurwantoro.vercel.app/go/linkedin)
