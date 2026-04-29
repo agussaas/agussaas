@@ -1,5 +1,3 @@
-## Skills
-
 ### Frontend
 
  - HTML
