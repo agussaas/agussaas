@@ -1,13 +1,3 @@
-## Agus Purwantoro
-
-Hi, I'm Agus Purwantoro, a passionate software developer with 11+ years of experience in web development and system administration.
-
-I specialize in full-stack development, WordPress, DevOps, and creating efficient solutions for complex technical challenges.
-
-I'm not the kind of jack of all trades, but I'm a quick learner and can adapt to new technologies and frameworks.
-
-I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to connect or work together on interesting projects.
-
 ## Skills
 
 ### Frontend
@@ -56,7 +46,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
  - React Native
  - Expo
- 
-## Reach Me
-
- - [LinkedIn](https://aguspurwantoro.vercel.app/go/linkedin)
